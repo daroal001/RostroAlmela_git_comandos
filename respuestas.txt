@@ -10,6 +10,12 @@ touch nombre.txt
 git add .
 git commit subida3
 cd examen
-touch /1 nombre.txt
+touch ./1/nombre.txt
 git add .
-git commit subida4
+git commit subida5
+cd 1/2
+cp ../nombre.txt ./3
+git add .
+git commit subida6
+
+
