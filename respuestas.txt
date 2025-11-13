@@ -5,10 +5,11 @@ git commit david
 git push origin main
 touch respuestas.txt
 git add .
-gti commit subida2
+git commit subida2
 touch nombre.txt
 git add .
-gti commit subida3
+git commit subida3
 cd examen
 touch /1 nombre.txt
-
+git add .
+git commit subida4
