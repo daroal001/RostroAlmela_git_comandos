@@ -9,4 +9,6 @@ gti commit subida2
 touch nombre.txt
 git add .
 gti commit subida3
+cd examen
+touch /1 nombre.txt
 
