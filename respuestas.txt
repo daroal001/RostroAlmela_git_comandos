@@ -1,0 +1,9 @@
+git add origin https://github.com/daroal001/RostroAlmela_git_comandos 
+touch readme.md 
+git push origin main
+touch respuestas.txt
+
+
+
+
+
