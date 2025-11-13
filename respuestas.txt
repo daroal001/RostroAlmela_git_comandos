@@ -1,9 +1,12 @@
 git add origin https://github.com/daroal001/RostroAlmela_git_comandos 
 touch readme.md 
+git add .
+git commit david
 git push origin main
 touch respuestas.txt
-
-
-
-
+git add .
+gti commit subida2
+touch nombre.txt
+git add .
+gti commit subida3
 
